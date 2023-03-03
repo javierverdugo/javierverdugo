@@ -27,5 +27,3 @@ Javascript - Actualmente estoy tomando el Bootcamp impartido por [Guillermo Roda
 | la | Lista los archivos en el folder actual, incluyendo los ocultos | alias la='ls -lisA' |
 | cl | Limpia el texto de la pantalla | alias cl='clear' |
 
-
- Cambio de text
